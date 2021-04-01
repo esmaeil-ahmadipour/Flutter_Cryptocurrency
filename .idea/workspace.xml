@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f44a153f-e893-4b73-bde9-018480bfe212" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1qYyFhPhoP9F3KKB1K8C1sTCK1q" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="android.sdk.path" value="C:/_FILES/SDK_manager" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib" />
+    <property name="project.structure.last.edited" value="SDK Location" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\_Archive\Development_Files\Samples\Flutter_Cryptocurrency\lib" />
+      <recent name="D:\_Archive\Development_Files\Samples\Flutter_Cryptocurrency\lib\models" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Flutter.main_prod.dart">
+    <configuration default="true" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="additionalArgs" value="D:\_Archive\Development_Files\Samples\Flutter_Cryptocurrency\lib\main_prod.dart" />
+      <option name="filePath" value="main_prod.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main_dev.dart" type="FlutterRunConfigurationType" factoryName="Flutter" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main_dev.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main_prod.dart" type="FlutterRunConfigurationType" factoryName="Flutter" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main_prod.dart" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Flutter.main_dev.dart" />
+      <item itemvalue="Flutter.main_prod.dart" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f44a153f-e893-4b73-bde9-018480bfe212" name="Default Changelist" comment="" />
+      <created>1617270735295</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617270735295</updated>
+    </task>
+    <task id="LOCAL‎۰۰۰۰۱" summary="add: Add Models">
+      <created>1617274998065</created>
+      <option name="number" value="LOCAL‎۰۰۰۰۱" />
+      <option name="presentableId" value="LOCAL‎۰۰۰۰۱" />
+      <updated>1617274998065</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add: Add Models" />
+    <option name="LAST_COMMIT_MESSAGE" value="add: Add Models" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="413" y="156" width="1094" height="884" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1617279123965">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="413" y="156" width="1094" height="884" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1617279123965" />
+    <state x="688" y="321" key="#com.intellij.ide.util.TreeFileChooserDialog" timestamp="1617278953225">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="688" y="321" key="#com.intellij.ide.util.TreeFileChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1617278953225" />
+    <state x="525" y="105" key="CommitChangelistDialog2" timestamp="1617274996923">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="525" y="105" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1617274996923" />
+    <state x="777" y="399" key="Github.ShareDialog" timestamp="1617271851677">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="777" y="399" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1617271851677" />
+    <state x="642" y="223" key="Github.UntrackedFilesDialog" timestamp="1617271859949">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="642" y="223" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1617271859949" />
+    <state x="551" y="252" key="Vcs.Push.Dialog.v2" timestamp="1617275013254">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="551" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1617275013254" />
+    <state x="789" y="310" key="svn.repositoryBrowser" timestamp="1617271821347">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="789" y="310" key="svn.repositoryBrowser/0.0.1920.1040@0.0.1920.1040" timestamp="1617271821347" />
+  </component>
+</project>
