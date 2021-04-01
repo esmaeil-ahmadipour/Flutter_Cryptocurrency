@@ -9,6 +9,7 @@ dependencies:
     sdk: flutter
   cupertino_icons: ^1.0.0
   json_annotation: ^3.0.1
+  chopper: ^3.0.2
 
 dev_dependencies:
   flutter_test:
@@ -16,6 +17,7 @@ dev_dependencies:
   json_serializable: ^3.3.0
   build_runner:
   built_value_generator:
+  chopper_generator:
 
 flutter:
   uses-material-design: true
